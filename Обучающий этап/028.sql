@@ -1,0 +1,8 @@
+WITH PPP AS (
+SELECT maker
+FROM Product
+GROUP BY maker
+HAVING COUNT(model) = 1
+)
+SELECT COUNT(maker)
+FROM PPP
