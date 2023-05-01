@@ -1,4 +1,4 @@
-# SQL-ex solving exercises
+# SQL-ex-Solved-Exercises
 
 Решенные мной задачи с сайта https://www.sql-ex.ru
 
